@@ -1,0 +1,7 @@
+nitrogen --restore &
+picom &
+nm-applet --indicator &
+udiskie -t -f "alacritty -e ranger" &
+xrandr --output HDMI-A-0 --mode 1920x1080
+blueman-applet &
+xautolock -time 5 -locker slock &
