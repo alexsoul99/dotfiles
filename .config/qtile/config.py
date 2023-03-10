@@ -147,8 +147,8 @@ layouts = [
     layout.MonadTall(
         border_normal="#006276",
         border_focus="#77dbf4",
-        border_width=4,
-        margin=4,
+        border_width=3,
+        margin=6,
         single_border_width=0,
         single_margin=0,
         max_ratio=0.75,
