@@ -17,7 +17,7 @@ PROGRAMS I USE:
 	-Theming: lxappearence(Theme: Nordic-Dark).
 	-AudioPlayer: Moc.
 	-VideoPlayer: Mpv.
-	-Screenshooter: Escrotum.
+	-Screenshooter: Flameshot.
 	-Screen Lock: slock & xautolock.
 	
 ![2023-03-09-162123_1917x1079_escrotum](https://user-images.githubusercontent.com/112888522/224163673-ca0e1532-d549-479f-b7ce-ca63e88dea77.png)
