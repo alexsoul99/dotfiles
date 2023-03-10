@@ -347,7 +347,7 @@ screens = [
             ],
             22,
             background=my_colors["dark"],
-            opacity=0.8,
+            opacity=1,
         ),
     ),
     Screen(),
