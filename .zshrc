@@ -117,7 +117,7 @@ compinit
 # End of lines added by compinstall
 
 
-path+=('/home/alexsoul/documents/personal_projects/scripts/')
+path+=('/home/alexsoul/projects/personal_projects/scripts/')
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
