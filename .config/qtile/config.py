@@ -220,15 +220,15 @@ screens = [
                         PowerLineDecoration(path="arrow_right"),
                     ],
                 ),
-                widget.Net(
-                    background=my_colors["dark"],
-                    foreground=my_colors["blue"],
-                    format='{down}   {up}',
-                    fontsize=13,
-                    decorations=[
-                        PowerLineDecoration(path="arrow_right"),
-                    ],
-                ),
+                # widget.Net(
+                #     background=my_colors["dark"],
+                #     foreground=my_colors["blue"],
+                #     format='{down}   {up}',
+                #     fontsize=13,
+                #     decorations=[
+                #         PowerLineDecoration(path="arrow_right"),
+                #     ],
+                # ),
                 widget.TextBox(
                     text='󰍛',
                     background=my_colors["blue"],
